@@ -1,0 +1,2966 @@
+[
+  {
+    "text": "तेलंगाना में गरजे Mallikarjun Kharge, 'एक आदमी' क्रेड‍िट ले रहा है... | Telangana Election\t\t",
+    "id": 43,
+    "label": [
+      {
+        "start": 18,
+        "end": 36,
+        "text": "Mallikarjun Kharge",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 81,
+        "text": "Telangana",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 8,
+        "text": "तेलंगाना",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 46,
+        "text": "आदमी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 71,
+        "text": "... |",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 90,
+        "text": "Election",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "text": "क्रेड‍िट",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 66,
+        "text": "ले रहा है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "गरजे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 56,
+        "text": "क्रेड‍िट",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 21,
+    "created_at": "2025-01-26T10:33:19.377143Z",
+    "updated_at": "2025-01-26T16:30:56.508937Z",
+    "lead_time": 1001.464
+  },
+  {
+    "text": "KCR की सरकार को उखाड़ फेंकने के ल‍िए आप लोग यहां जुटे हैं- Mallikarjun Kharge | Telangana Election\t\t",
+    "id": 44,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "KCR",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 6,
+        "text": " की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "text": "सरकार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "text": "उखाड़",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 28,
+        "text": "फेंकने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 39,
+        "text": "आप",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "text": "लोग",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "text": "ल‍िए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": "यहां",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "text": "जुटे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 77,
+        "text": "Mallikarjun Kharge",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 89,
+        "text": "Telangana",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 80,
+        "text": " | ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 98,
+        "text": "Election",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 22,
+    "created_at": "2025-01-26T10:40:40.846151Z",
+    "updated_at": "2025-01-26T16:34:20.517038Z",
+    "lead_time": 522.992
+  },
+  {
+    "text": "EP-1 | एक पिता जो बेटी को IPS बनाना चाहता था लेकिन एक दिन..| Meri Kahani | Madhya Pradesh | Election\t\t",
+    "id": 45,
+    "label": [
+      {
+        "start": 7,
+        "end": 9,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "text": "पिता",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "जो",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "text": "बेटी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "text": "IPS ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "text": "बनाना",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "चाहता",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": " था",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "text": "लेकिन",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "दिन",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 89,
+        "text": "Madhya Pradesh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 91,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 100,
+        "text": "Election",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 6,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "..|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 3,
+        "text": "EP-",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 4,
+        "text": "1",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 65,
+        "text": "Meri",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 72,
+        "text": "Kahani",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 23,
+    "created_at": "2025-01-26T11:00:44.965793Z",
+    "updated_at": "2025-01-26T16:40:13.576305Z",
+    "lead_time": 1588.614
+  },
+  {
+    "text": "ये BJP की सरकार है दरोगा जी, मार मारके भूत बना दूंगा' UP के Farrukhabad में खनन माफियाओं की गुंडई।\t\t",
+    "id": 46,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "ये ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 2,
+        "text": "ये",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 7,
+        "text": "BJP ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 9,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "text": "सरकार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 42,
+        "text": "भूत",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "text": "बना",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "text": "दूंगा'",
+        "labels": [
+          "VERB"
+        ]
+      },
+     {
+        "start": 60,
+        "end": 71,
+        "text": "Farrukhabad",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 76,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "text": "खनन",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 88,
+        "text": " माफियाओं",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 97,
+        "text": "गुंडई",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "text": "दरोगा जी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "text": " मार मारके",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 24,
+    "created_at": "2025-01-26T11:05:33.031652Z",
+    "updated_at": "2025-01-26T16:44:01.479533Z",
+    "lead_time": 509.98099999999994
+  },
+  {
+    "text": "Adani को एक चिट्ठी लिखी गई' ... Shakti Singh Gohil ने खोल दी सरकार को पोल।\t\t",
+    "id": 47,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "Adani",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 8,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 11,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "text": "चिट्ठी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "text": " लिखी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "गई'",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "text": " ... ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 50,
+        "text": "Shakti Singh Gohil",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 54,
+        "text": " ने ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "खोल",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 60,
+        "text": "दी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 66,
+        "text": "सरकार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 70,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 73,
+        "text": "पोल",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 25,
+    "created_at": "2025-01-26T11:07:57.085707Z",
+    "updated_at": "2025-01-26T11:07:57.085730Z",
+    "lead_time": 141.731
+  },
+  {
+    "text": "China ने हिंदुस्तान की जमीन पर कब्जा किया है, और PM Modi हमेशा की तरह झूठ बोल रहे हैं- Rahul Gandhi\t\t",
+    "id": 48,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "China",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 19,
+        "text": "हिंदुस्तान",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 22,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "text": "जमीन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 30,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 48,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "text": "हमेशा",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 65,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 69,
+        "text": "तरह",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "text": "-",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 99,
+        "text": "Rahul Gandhi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 73,
+        "text": "झूठ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 44,
+        "text": "कब्जा किया है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 85,
+        "text": " बोल रहे हैं",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 26,
+    "created_at": "2025-01-26T11:12:38.302868Z",
+    "updated_at": "2025-01-26T16:47:59.301787Z",
+    "lead_time": 542.697
+  },
+  {
+    "text": "अगर RTI ने लगती, तो ये खत नहीं लिखा जाता' Shakti Singh Gohil ने किया बड़ा खुलासा। Adani | PM Modi\t\t",
+    "id": 49,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "अगर",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "text": "RTI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "text": "लगती",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "तो",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 16,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "ये ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 25,
+        "text": "खत",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "text": "नहीं ",
+        "labels": [
+          "PART_NEG"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 60,
+        "text": "Shakti Singh Gohil",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 87,
+        "text": "Adani",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 97,
+        "text": "PM Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 63,
+        "text": " ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 68,
+        "text": " किया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 73,
+        "text": "बड़ा",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 80,
+        "text": "खुलासा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "text": "लिखा जाता",
+        "labels": [
+          "VERB"
+        ]
+      }
+       ],
+    "annotator": 1,
+    "annotation_id": 27,
+    "created_at": "2025-01-26T11:16:26.500013Z",
+    "updated_at": "2025-01-26T16:49:45.794869Z",
+    "lead_time": 521.865
+  },
+  {
+    "text": "3900 करोड़ की लूट पर कांग्रेस के Modi सरकार से सवाल। Adani | SEBI | CBI-ED | Shakti Singh Gohil\t\t",
+    "id": 50,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "3900",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "text": "करोड़ ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "text": "लूट",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "text": "कांग्रेस",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "सरकार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "सवाल",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 52,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 60,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 58,
+        "text": "Adani",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 65,
+        "text": "SEBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 74,
+        "text": "CBI-ED",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 95,
+        "text": "Shakti Singh Gohil",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 28,
+    "created_at": "2025-01-26T11:20:40.573563Z",
+    "updated_at": "2025-01-26T16:50:56.523648Z",
+    "lead_time": 188.413
+  },
+  {
+    "text": "Gujarat में Adani का एक बड़ा घोटाला, Modi राज में हुई करोड़ों लूटे | Shaktisinh Gohil | Pawan Khera\t\t",
+    "id": 51,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Gujarat",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "text": "Adani",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "text": "एक",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "text": "बड़ा",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "text": "घोटाला",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 36,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 41,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 45,
+        "text": "राज",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 49,
+        "text": " में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 53,
+        "text": "हुई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 61,
+        "text": "करोड़ों",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 66,
+        "text": "लूटे",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 68,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 87,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 86,
+        "text": "Shaktisinh Gohil ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 99,
+        "text": "Pawan Khera",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 29,
+    "created_at": "2025-01-26T12:22:44.705446Z",
+    "updated_at": "2025-01-26T16:52:20.943178Z",
+    "lead_time": 3800.876
+  },
+  {
+    "text": "छह महीने में नहीं बनते सैनिक' Modi सरकार की Agniveer Scheme पर भड़के पूर्व सैनिक। Bharat Jodo Yatra\t\t",
+    "id": 52,
+    "label": [
+      {
+        "start": 0,
+        "end": 2,
+        "text": "छह",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 8,
+        "text": "महीने",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "text": "नहीं",
+        "labels": [
+          "PART_NEG"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "text": "बनते",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 28,
+        "text": "सैनिक",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "text": "सरकार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 59,
+        "text": "Agniveer Scheme",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 68,
+        "text": "भड़के",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 74,
+        "text": "पूर्व",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 80,
+        "text": "सैनिक",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 99,
+        "text": "Bharat Jodo Yatra",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 30,
+    "created_at": "2025-01-26T12:25:43.570442Z",
+    "updated_at": "2025-01-26T16:53:43.963798Z",
+    "lead_time": 257.551
+  },
+  {
+    "text": "Congress सरकार में बच्चों की शानदार पढ़ाई के लिए महिला ने कहा धन्यवाद। CM Ashok Gehlot | Rajasthan\t\t",
+    "id": 53,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Congress",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "text": "सरकार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "text": "बच्चों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "text": "शानदार",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "पढ़ाई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "text": " के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": " लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "text": "महिला",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": " ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "कहा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 69,
+        "text": "धन्यवाद",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 70,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 98,
+        "text": "Rajasthan",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 88,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 31,
+    "created_at": "2025-01-26T12:28:59.700351Z",
+    "updated_at": "2025-01-26T16:55:16.276638Z",
+    "lead_time": 283.557
+  },
+  {
+    "text": "BJP मंत्री की दबंगई देखिए, प्लेटफॉर्म पर ही चढ़ा दी कार। UP Minister Dharampal Singh | Train\t\t",
+    "id": 54,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "BJP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 84,
+        "text": "Dharampal Singh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 92,
+        "text": "Train",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 86,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 10,
+        "text": "मंत्री",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 13,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "text": "दबंगई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "text": "देखिए",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 26,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "text": "प्लेटफॉर्म",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 43,
+        "text": "ही",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 55,
+        "text": "कार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 56,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "text": "UP",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 68,
+        "text": "Minister",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 51,
+        "text": "चढ़ा दी",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 32,
+    "created_at": "2025-01-26T12:33:57.221496Z",
+    "updated_at": "2025-01-26T16:57:04.520079Z",
+    "lead_time": 459.33
+  },
+  {
+    "text": "Brijbhushan को बचाने के लिए PM Modi ने दुनिया में कराई भारत की बेइज्जती। UWW | Wrestling India\t\t",
+    "id": 55,
+    "label": [
+      {
+        "start": 0,
+        "end": 11,
+        "text": "Brijbhushan",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 14,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "text": "बचाने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 23,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "लिए",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "text": "PM Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 38,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "text": "दुनिया",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 54,
+        "text": "कराई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 59,
+        "text": "भारत",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 71,
+        "text": "बेइज्जती",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 78,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 76,
+        "text": "UWW",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 94,
+        "text": "Wrestling India",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 33,
+    "created_at": "2025-01-26T12:41:38.032428Z",
+    "updated_at": "2025-01-26T16:58:25.333985Z",
+    "lead_time": 536.296
+  },
+  {
+    "text": "PM Modi और China के President Jinping की South Africa में मुलाकात हुई, आखिर क्या बात हुई? हमारे सवाल\t\t",
+    "id": 56,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "PM Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 10,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 16,
+        "text": "China",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 19,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 37,
+        "text": "President Jinping",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "text": "South Africa",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 65,
+        "text": "मुलाकात",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 69,
+        "text": "हुई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 75,
+        "text": "आखिर",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "text": "क्या",
+        "labels": [
+          "PRON_WH"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "text": "बात",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 88,
+        "text": "हुई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "text": "?",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 95,
+        "text": "हमारे",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 100,
+        "text": "सवाल",
+        "labels": [
+          "NOUN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 34,
+    "created_at": "2025-01-26T12:49:57.961356Z",
+    "updated_at": "2025-01-26T16:59:49.718600Z",
+    "lead_time": 480.663
+  },
+  {
+    "text": "UWW ने सस्पेंड की भारतीय कुश्ती महासंघ की सदस्यता, सरकार पर भड़के Vijender Singh | Brij Bhushan| WFI\t\t",
+    "id": 57,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "UWW",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 14,
+        "text": "सस्पेंड",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 41,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "text": "सदस्यता",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 50,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 56,
+        "text": "सरकार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 59,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 65,
+        "text": "भड़के",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 80,
+        "text": "Vijender Singh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 95,
+        "text": "Brij Bhushan",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 100,
+        "text": "WFI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 82,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 96,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 38,
+        "text": "भारतीय कुश्ती महासंघ",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 35,
+    "created_at": "2025-01-26T12:54:49.810409Z",
+    "updated_at": "2025-01-26T17:00:38.272006Z",
+    "lead_time": 387.54
+  },
+  {
+    "text": "PM Modi बहुत झूठ बोलते हैं...| चीन ने हमारी जमीन पर कब्जा किया है | Rahul Gandhi ने खोली पोल\t\t",
+    "id": 58,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "PM Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "बहुत",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "text": "...|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "text": "चीन",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "हमारी",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "text": "जमीन",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 51,
+        "text": "पर",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 80,
+        "text": "Rahul Gandhi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 83,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "text": "खोली",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 92,
+        "text": "पोल",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 65,
+        "text": "कब्जा किया है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 26,
+        "text": " झूठ बोलते हैं",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 36,
+    "created_at": "2025-01-26T12:57:34.822507Z",
+    "updated_at": "2025-01-26T17:02:06.416966Z",
+    "lead_time": 301.969
+  },
+  {
+    "text": "CM Bhupesh Baghel की भविष्यवाणी, Chhattisgarh में चुनाव से पहले IT के 250 लोगों की टीम छापा डालेगी।\t\t",
+    "id": 59,
+    "label": [
+      {
+        "start": 0,
+        "end": 17,
+        "text": "CM Bhupesh Baghel",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "text": "भविष्यवाणी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "text": "Chhattisgarh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 55,
+        "text": "चुनाव",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 63,
+        "text": "पहले",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 66,
+        "text": "IT",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 69,
+        "text": "के",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 73,
+        "text": "250",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 79,
+        "text": "लोगों",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 82,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "टीम",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "text": "छापा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 98,
+        "text": "डालेगी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "text": "पा",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 37,
+    "created_at": "2025-01-26T13:02:33.677161Z",
+    "updated_at": "2025-01-26T17:03:50.500138Z",
+    "lead_time": 395.753
+  },
+  {
+    "text": "अंधेर नगरी, चौपट राजा' Mallikarjun Kharge ने BJP और PM Modi को जमकर घेरा। Madhya Pradesh\t\t",
+    "id": 60,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "अंधेर",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "text": "नगरी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 11,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "text": "चौपट",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "text": "राजा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 41,
+        "text": "Mallikarjun Kharge",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 44,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "text": "BJP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 51,
+        "text": "और",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 59,
+        "text": "PM Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 67,
+        "text": "जमकर",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 72,
+        "text": "घेरा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 88,
+        "text": "Madhya Pradesh",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 38,
+    "created_at": "2025-01-26T13:08:27.998404Z",
+    "updated_at": "2025-01-26T17:04:47.990686Z",
+    "lead_time": 211.179
+  },
+  {
+    "text": "Amit Shah का मंत्रालय भ्रष्टाचार में सबसे आगे, खुल गई Modi सरकार की पोल | रिपोर्ट से BJP में खलबली\t\t",
+    "id": 61,
+    "label": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "Amit Shah",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 12,
+        "text": "का",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "text": "मंत्रालय",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "text": "भ्रष्टाचार",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 41,
+        "text": "सबसे",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 45,
+        "text": "आगे",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 46,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 50,
+        "text": "खुल",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 53,
+        "text": "गई",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "text": "Modi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 64,
+        "text": "सरकार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 67,
+        "text": "की",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 71,
+        "text": "पोल",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 73,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 81,
+        "text": "रिपोर्ट",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 84,
+        "text": "से",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 88,
+        "text": "BJP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 92,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 98,
+        "text": "खलबली",
+        "labels": [
+          "VERB"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 59,
+    "created_at": "2025-01-26T13:23:21.037490Z",
+    "updated_at": "2025-01-26T17:06:00.557067Z",
+    "lead_time": 250.97199999999998
+  },
+  {
+    "text": "Ladakh में Rahul Gandhi ने कर दिया बड़ा ऐलान- '2024 में BJP को हराएगा INDIA' | राहुल गांधी भाषण\t\t",
+    "id": 62,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Ladakh",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "text": "में",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 23,
+        "text": "Rahul Gandhi",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 26,
+        "text": "ने",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "text": "बड़ा",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "text": "ऐलान",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 45,
+        "text": "-",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 76,
+        "text": "'",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "2024",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 56,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 59,
+        "text": "BJP",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "text": "हराएगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 75,
+        "text": "INDIA",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 95,
+        "text": "भाषण",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 78,
+        "text": "|",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "text": "कर दिया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 90,
+        "text": "राहुल गांधी",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 60,
+    "created_at": "2025-01-26T13:25:56.962368Z",
+    "updated_at": "2025-01-26T17:06:53.007452Z",
+    "lead_time": 298.695
+  }
+]
